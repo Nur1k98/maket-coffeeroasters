@@ -115,14 +115,13 @@ body {
 
 .main__logo {
   position: relative;
-  top: -175px;
-  left: 580px;
+  top: -190px;
+  left: 560px;
 
 }
 
 .main__heading {
   width: 447px;
-  height: 150px;
   margin: 0;
   font-family: 'Roboto';
   font-style: normal;
@@ -133,7 +132,6 @@ body {
 }
 
 .main__text {
-  height: 72px;
   width: 464px;
   margin-top: 24px;
   font-family: 'Roboto';
